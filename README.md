@@ -4,4 +4,4 @@ Bu yazılım internet sitenizdeki sayfaları ve dosyaları kopyalamak isteyenler
 
 # Nasıl Kullanılır ? || How to use ?
 
-Bu yazılımı kullanmak oldukça basittir. Yapmanız gereken .js ve .css uzantılı dosyalara kodları dahil etmek ve .html uzantılı dosyanızda çalıştırmak. Telif yazısını değiştirmek için .html dosyasını kullanmanız gerekiyor. || Using this program is quite simple. What you need to do is include the codes in the .js and .css files and run them in your .html file. You need to use the .html file to change the copyright text.
+Bu yazılımı kullanmak oldukça basittir. Yapmanız gereken .js ve .css uzantılı dosyalara kodları dahil etmek ve .js uzantılı dosyanızda çalıştırmak. Telif yazısını değiştirmek için .html dosyasını kullanmanız gerekiyor. || Using this program is quite simple. What you need to do is include the codes in the .js and .css files and run them in your .html file. You need to use the .js file to change the copyright text.
